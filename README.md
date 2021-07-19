@@ -1,4 +1,4 @@
-# ibm_beats Cookbook
+# elk_beats Cookbook
 
 TODO: Enter the cookbook description here.
 
